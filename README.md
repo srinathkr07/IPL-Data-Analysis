@@ -18,4 +18,5 @@ ix) Top 10 players based on no. of Man of Match (MOM) awards won.
 x) What is the relation between winning the toss and winning the match?
 xi) What was the decision taken by captains when they won the toss?
 xii) No. of matches where D/L method was applied every season.
-xiii) How many times did a team win the toss?
+xiii) Different results for matches.
+xiv) How many times did a team win the toss?
