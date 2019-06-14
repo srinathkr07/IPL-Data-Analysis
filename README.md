@@ -39,4 +39,6 @@ xiv) How many times did a team win the toss?
 
 xv) Best venue for defending and chasing a total.  
 
-xvi) Best defending and chasing teams.
+xvi) Best defending and chasing teams.  
+
+xvii) No. of matches played in different stadiums.
